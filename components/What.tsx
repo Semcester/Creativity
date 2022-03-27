@@ -337,8 +337,8 @@ const What = () => {
                       xmlns="http://www.w3.org/2000/svg"
                     >
                       <path
-                        fill-rule="evenodd"
-                        clip-rule="evenodd"
+                        fillRule="evenodd"
+                        clipRule="evenodd"
                         d="M12 1C12.5523 1 13 1.44772 13 2V11H22C22.5523 11 23 11.4477 23 12C23 12.5523 22.5523 13 22 13H13V22C13 22.5523 12.5523 23 12 23C11.4477 23 11 22.5523 11 22V13H2C1.44772 13 1 12.5523 1 12C1 11.4477 1.44772 11 2 11H11V2C11 1.44772 11.4477 1 12 1Z"
                         fill="#F52F6E"
                       />
@@ -352,8 +352,8 @@ const What = () => {
                       xmlns="http://www.w3.org/2000/svg"
                     >
                       <path
-                        fill-rule="evenodd"
-                        clip-rule="evenodd"
+                        fillRule="evenodd"
+                        clipRule="evenodd"
                         d="M1 12C1 11.4477 1.44772 11 2 11V12V13C1.44772 13 1 12.5523 1 12ZM22 12L21.9999 13H2V12V11H21.9994L22 12ZM22 12L21.9999 13C22.5522 13 23 12.5523 23 12C23 11.4477 22.5517 11 21.9994 11L22 12Z"
                         fill="#F52F6E"
                       />
@@ -381,8 +381,8 @@ const What = () => {
                       xmlns="http://www.w3.org/2000/svg"
                     >
                       <path
-                        fill-rule="evenodd"
-                        clip-rule="evenodd"
+                        fillRule="evenodd"
+                        clipRule="evenodd"
                         d="M12 1C12.5523 1 13 1.44772 13 2V11H22C22.5523 11 23 11.4477 23 12C23 12.5523 22.5523 13 22 13H13V22C13 22.5523 12.5523 23 12 23C11.4477 23 11 22.5523 11 22V13H2C1.44772 13 1 12.5523 1 12C1 11.4477 1.44772 11 2 11H11V2C11 1.44772 11.4477 1 12 1Z"
                         fill="#F52F6E"
                       />
@@ -396,8 +396,8 @@ const What = () => {
                       xmlns="http://www.w3.org/2000/svg"
                     >
                       <path
-                        fill-rule="evenodd"
-                        clip-rule="evenodd"
+                        fillRule="evenodd"
+                        clipRule="evenodd"
                         d="M1 12C1 11.4477 1.44772 11 2 11V12V13C1.44772 13 1 12.5523 1 12ZM22 12L21.9999 13H2V12V11H21.9994L22 12ZM22 12L21.9999 13C22.5522 13 23 12.5523 23 12C23 11.4477 22.5517 11 21.9994 11L22 12Z"
                         fill="#F52F6E"
                       />
@@ -427,8 +427,8 @@ const What = () => {
                       xmlns="http://www.w3.org/2000/svg"
                     >
                       <path
-                        fill-rule="evenodd"
-                        clip-rule="evenodd"
+                        fillRule="evenodd"
+                        clipRule="evenodd"
                         d="M12 1C12.5523 1 13 1.44772 13 2V11H22C22.5523 11 23 11.4477 23 12C23 12.5523 22.5523 13 22 13H13V22C13 22.5523 12.5523 23 12 23C11.4477 23 11 22.5523 11 22V13H2C1.44772 13 1 12.5523 1 12C1 11.4477 1.44772 11 2 11H11V2C11 1.44772 11.4477 1 12 1Z"
                         fill="#F52F6E"
                       />
@@ -442,8 +442,8 @@ const What = () => {
                       xmlns="http://www.w3.org/2000/svg"
                     >
                       <path
-                        fill-rule="evenodd"
-                        clip-rule="evenodd"
+                        fillRule="evenodd"
+                        clipRule="evenodd"
                         d="M1 12C1 11.4477 1.44772 11 2 11V12V13C1.44772 13 1 12.5523 1 12ZM22 12L21.9999 13H2V12V11H21.9994L22 12ZM22 12L21.9999 13C22.5522 13 23 12.5523 23 12C23 11.4477 22.5517 11 21.9994 11L22 12Z"
                         fill="#F52F6E"
                       />
