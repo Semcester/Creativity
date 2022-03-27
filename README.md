@@ -24,7 +24,7 @@
 <p align="center">Make sure you have [nodejs](https://nodejs.org/en/) installed</p>
 <br />
 
-<p align="center">Support responsive only wide, laptop and tablet size</p>
+<p align="center">Support responsive only wide and laptop and sizes</p>
 
 Just run the following command
 
