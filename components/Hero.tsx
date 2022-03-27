@@ -65,7 +65,7 @@ const Hero = () => {
               <h1>Play showreel</h1>
             </div>
             <h1 className="wideDesktop:text-6xl laptop:text-4xl font-bold leading-normal">
-              Hey, we're <br />
+              Hey, we&apos;re <br />
               <span className="text-brand">CREATIVE</span>
             </h1>
             <motion.button
